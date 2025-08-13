@@ -27,7 +27,6 @@
 ## 📧 Contact & Socials
 <span style="color:#0078D7">Email:</span> uzairmoazzam21@gmail.com  
 <span style="color:#0078D7">GitHub:</span> [Uzairrr21](https://github.com/Uzairrr21)  
-<span style="color:#0078D7">LinkedIn:</span> [Connect](https://www.linkedin.com/in/uzairrr21/)  
 
 ---
 
@@ -188,20 +187,19 @@ A: Login as admin, go to Admin Panel, and use the product creation form.
 A: See the Deployment section above for platform options.
 
 **Q: How do I report a bug or request a feature?**  
-A: Open an issue or pull request on [GitHub](https://github.com/Uzairrr21/ecommerce-store).
+A: Open an issue or pull request on [GitHub](https://github.com/Uzairrr21/E-commerce-Store.git).
 
 ---
 
 ## 🧑‍💻 Author
 **GitHub:** [Uzairrr21](https://github.com/Uzairrr21)  
 **Email:** uzairmoazzam21@gmail.com  
-**LinkedIn:** [Connect](https://www.linkedin.com/in/uzairrr21/)
 
 ---
 
 ## 🌟 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 
 ---
 
