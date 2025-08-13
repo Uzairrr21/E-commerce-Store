@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Ecommerce+Store+%F0%9F%92%B3;MERN+Stack+%F0%9F%92%A1;Professional+%26+Beautiful+UI;By+Uzairrr21"/>
   <br>
-  <img src="https://user-images.githubusercontent.com/674621/159151394-53b7c703-2cf8-4b11-8c46-6a0b7b6e8a16.gif" width="600"/>
+
 </div>
 
 ---
@@ -211,5 +211,5 @@ This project is licensed under the MIT License.
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Thank+You+for+visiting+the+project!+%F0%9F%91%8B"/>
   <br>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+
 </div>
